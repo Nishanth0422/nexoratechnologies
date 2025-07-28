@@ -158,13 +158,14 @@ const Navbar = () => {
   ];
 
   return (
-    <motion.nav
-      initial={{ y: -100 }}
-      animate={{ y: 0 }}
-      className={`w-full z-50 fixed top-0 transition-all duration-300 ${
-        scrolled ? 'bg-white shadow-md' : 'bg-white/70 backdrop-blur-md'
-      }`}
-    >
+   <motion.nav
+  initial={{ y: -100 }}
+  animate={{ y: 0 }}
+  className={`w-full z-50 relative transition-all duration-300 ${
+    scrolled ? 'bg-white shadow-md' : 'bg-white/70 backdrop-blur-md'
+  }`}
+>
+
       <div className="max-w-7xl mx-auto px-6 py-3 flex items-center justify-between">
         {/* Logo */}
         <Link to="/" className="flex items-center space-x-2">
