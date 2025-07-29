@@ -54,8 +54,8 @@ const Home = () => {
       rating: 5,
     },
     {
-      name: 'Skylark Digi Solutions',
-      company: 'Creative Agency',
+      name: 'Hariharasudhan',
+      company: 'Skylark Digi Solutions',
       content: 'Outstanding UI/UX design work. They truly understand how to create engaging user experiences.',
       rating: 5,
     },
