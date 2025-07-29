@@ -138,7 +138,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-gray-700 mt-8 pt-8 flex flex-col sm:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm text-center w-full">
-  © 2019 Nexora Technologies. All rights reserved.
+  © 2025 Nexora Technologies. All rights reserved.
 </p>
 
           <motion.button

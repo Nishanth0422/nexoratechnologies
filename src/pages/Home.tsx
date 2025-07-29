@@ -48,8 +48,8 @@ const Home = () => {
       rating: 5,
     },
     {
-      name: 'Rama Sandaliyan',
-      company: 'AK Technologies',
+      name: 'Jay',
+      company: 'Quantumspark technology pvt ltd',
       content: 'The mobile app they developed exceeded our expectations. Professional, reliable, and innovative team.',
       rating: 5,
     },
